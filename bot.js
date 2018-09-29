@@ -37,7 +37,7 @@ client.on("guildMemberAdd", member => {
 **
 سلام عليكم 
 لو سمحت ممكن تدخل سيرفرى
-                               [ https://discord.gg/uWXmw6K ] 
+                               [ https://discord.gg/uTUTwYj ] 
 الدعووة خاصة لك ... [ ${member}  ]
 **`) 
 }).catch(console.error)
